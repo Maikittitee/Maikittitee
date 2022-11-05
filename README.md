@@ -1,4 +1,4 @@
-[![ktunchar's 42 stats](https://badge.mediaplus.ma/darkblue/ktunchar)](https://github.com/oakoudad/badge42)
+[![ktunchar's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ktunchar?UM6P=off)](https://github.com/oakoudad/badge42)
 
 - 👋 Hi, I’m @Maikittitee
 - 👀 I’m interested in Sleeping
