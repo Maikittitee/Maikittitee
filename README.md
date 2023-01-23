@@ -1,5 +1,3 @@
-[![ktunchar's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ktunchar?UM6P=off)](https://github.com/oakoudad/badge42)
-
 <h1 align="center">Hi 👋, I'm Maikittitee</h1>
 <h3 align="center">Class Ktunchar(Cadet@42Bangkok,ComputerEngineer@KMITL){}</h3>
 
@@ -31,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maikittitee&show_icons=true&locale=en&layout=compact" alt="maikittitee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikittitee&show_icons=true&locale=en" alt="maikittitee" /></p>
+
+[![ktunchar's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ktunchar?UM6P=off)](https://github.com/oakoudad/badge42)
