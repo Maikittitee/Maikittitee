@@ -13,17 +13,11 @@
 
 - 🤝 I’m looking for help with **API / WEBDEV Stuff**
 
-- 👨‍💻 All of my projects are available at [not yet](not yet)
-
-- 📝 I regularly write articles on [no i have no time to sleep, what i gonna writing for? But Notionnnn](no i have no time to sleep, what i gonna writing for? But Notionnnn)
+- 📝 I regularly write articles on no i have no time to sleep, what i gonna writing for? But Notionnnn ;)
 
 - 💬 Ask me about **No ,please don't ask me anything.**
 
 - 📫 How to reach me **ktunchar@gmail.com**
-
-- 📄 Know about my experiences [not yet](not yet)
-
-- ⚡ Fun fact **not yet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
