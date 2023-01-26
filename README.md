@@ -1,21 +1,9 @@
-<h1 align="center">Hi 👋, I'm Maikittitee</h1>
+<h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
 <h3 align="center">Class Ktunchar(Cadet@42Bangkok,ComputerEngineer@KMITL){}</h3>
 
 [![ktunchar's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ktunchar?UM6P=off)](https://github.com/oakoudad/badge42)
 
-- 🔭 I’m currently working on **CE / 42 Project**
-
-- 🌱 I’m currently learning **Django / FastAPI**
-
-- 👯 I’m looking to collaborate on **Machine Learning Stuff**
-
-- 🤝 I’m looking for help with **API / WEBDEV Stuff**
-
-- 📝 I regularly write articles on no i have no time to sleep, what i gonna writing for? But Notionnnn ;)
-
-- 💬 Ask me about **No ,please don't ask me anything.**
-
-- 📫 How to reach me **ktunchar@gmail.com**
+- Currently learning **Django / FastAPI **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
