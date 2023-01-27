@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
 <h3 align="center"><code>Class Ktunchar(Cadet@42Bangkok, ComputerEngineer@KMITL) {...} </code></h3>
 
-<div align="center" href="https://github.com/oakoudad/badge42">
+<style>
+  .div {
+    align="center";
+  }
+  
+</style>
+
+<div href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/darkblue/ktunchar?UM6P=off" alt="ktunchar's 42 stats" />
 </div>
 
