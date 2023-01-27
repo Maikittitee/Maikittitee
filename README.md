@@ -14,7 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=maikittitee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
  </div>
 
-# 💻 Intranet:
  <div align="center" href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/darkblue/ktunchar?UM6P=off" alt="ktunchar's 42 stats" />
  </div>
