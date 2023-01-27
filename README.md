@@ -3,7 +3,7 @@
 
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ktunchar?UM6P=off" alt="ktunchar's 42 stats" /></a>
 
-- Currently learning **Django / FastAPI **
+<p align="center">- Currently learning **Django / FastAPI **</p>
 
 
 ## 🌐 Socials:
