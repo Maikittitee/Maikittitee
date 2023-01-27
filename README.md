@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
 <h3 align="center"><code>Class Ktunchar(Cadet@42Bangkok, ComputerEngineer@KMITL) {...} </code></h3>
 
-<style>
-  .div {
-    align="center";
-  }
-  
-</style>
-
-<div href="https://github.com/oakoudad/badge42">
+<div align="center" href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/darkblue/ktunchar?UM6P=off" alt="ktunchar's 42 stats" />
-</div>
 
-<p align="center">- Currently learning **Django / FastAPI **</p>
+<p>- Currently learning **Django / FastAPI **</p>
 
 
 ## 🌐 Socials:
@@ -25,6 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maikittitee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maikittitee&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=maikittitee&icon=0&color=0)](https://visitcount.itsvg.in)
 
