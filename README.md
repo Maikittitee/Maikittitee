@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
-<h3 align="center">Class Ktunchar(Cadet@42Bangkok,ComputerEngineer@KMITL){...}`</h3>
+<h3 align="center"><code>Class Ktunchar(Cadet@42Bangkok,ComputerEngineer@KMITL){...}</code></h3>
 
-<p>Use the <code>printf()</code> function.</p>
-
-[![ktunchar's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ktunchar?UM6P=off)](https://github.com/oakoudad/badge42)
+<a align="center">[![ktunchar's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ktunchar?UM6P=off)](https://github.com/oakoudad/badge42)</a>
 
 - Currently learning **Django / FastAPI **
 
