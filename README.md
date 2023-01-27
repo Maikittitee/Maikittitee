@@ -2,6 +2,7 @@
 <h3 align="center"><code>Class Ktunchar(Cadet@42Bangkok, ComputerEngineer@KMITL) {...} </code></h3>
 
 <div align="center">
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 <p>- Currently learning **Django / FastAPI **</p>
@@ -11,6 +12,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maikittitee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+  
+  [![](https://visitcount.itsvg.in/api?id=maikittitee&icon=0&color=0)](https://visitcount.itsvg.in)
  </div>
 
  <div align="center" href="https://github.com/oakoudad/badge42">
@@ -18,7 +21,6 @@
  </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maikittitee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
