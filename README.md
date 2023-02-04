@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
-```
-Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
-   most_used = "C"
-   currently_learning = [ "HTML-CSS-JS" , "FastAPI" , "OOP" ]
-   
-   
-   def sleepy(self):
-        self.sleep = True
-  } 
-```
+
+
+
 
 <div align="center">
   <code>currently_learning = [ "HTML-CSS-JS" , "FastAPI" , "OOP" ] </code>
