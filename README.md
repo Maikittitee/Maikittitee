@@ -10,8 +10,6 @@ Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) {
   } 
 ```
 
-[![](https://visitcount.itsvg.in/api?id=maikittitee&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
-
 
 <div align="center">
   
