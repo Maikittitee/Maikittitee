@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
-<h3 align="center"><code><br>Class Ktunchar(Cadet@42Bangkok, ComputerEngineer@KMITL) {...} <br></code></h3>
+<h3 align="center"><code><br>Class Ktunchar(Cadet@42Bangkok, ComputerEngineer@KMITL) { 
+  currently_learning = [ "HTML-CSS-JS" , "FastAPI" , "OOP" ] 
+  } 
+  <br></code></h3>
 
 
 <div align="center">
