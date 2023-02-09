@@ -20,9 +20,6 @@ Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) {
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mai.tuncharoen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maikittitee) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/maikittitee) 
     [![](https://visitcount.itsvg.in/api?id=maikittitee&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maikittitee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
  </div>
 
  <div align="center" href="https://github.com/oakoudad/badge42">
