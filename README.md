@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
+<h2>I'm Student at 42Bangkok coding school and Computer Engineering at KMITL. I'm interest about low-level programming. Now i'm currenly learn about OOP , JS , API and (Try to learn) Cyber-Security stuff </h2>
 
 ```python
 Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
