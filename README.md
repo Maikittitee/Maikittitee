@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krittithee Tuncharoen</h1>
 
-```
+```python
 Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
     most_used = "C"
     currently_learning = [ "HTML-CSS-JS" , "FastAPI" , "OOP" ]
