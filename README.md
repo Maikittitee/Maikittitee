@@ -4,11 +4,7 @@
 ```python
 Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
     most_used = "C"
-    currently_learning = [ "HTML-CSS-JS" , "FastAPI" , "OOP" ]
-
-    def sleepy(self):
-        self.sleep = True
-  } 
+    currently_learning = [ "FastAPI" , "OOP" , "ASM" ]
 ```
 
 
