@@ -4,7 +4,7 @@
 ```python
 Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
     most_used = "C"
-    currently_learning = [ "FastAPI" , "OOP" , "ASM" ]
+    currently_learning = [ What the fuk, I'm not learning anything i'm tried!!! ]
 ```
 
 
