@@ -4,7 +4,7 @@
 ```python
 Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
     most_used = [C, Python]
-    currently_learning = ["How to boost my mental health"]
+    currently_learning = [Webserver, AI, ML, Web development]
 ```
 
 
