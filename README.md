@@ -3,8 +3,8 @@
 
 ```python
 Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
-    most_used = [C, Python]
-    currently_learning = [Webserver, AI, ML, Web development]
+    most_used = [C, C++, Python]
+    currently_learning = [Webserver, AI, web-development]
 ```
 
 
