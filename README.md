@@ -3,7 +3,7 @@
 
 ```python
 Class Ktunchar(Cadet@42Bangkok, ComputerEngineeringStudent@KMITL) { 
-    MostUsed = ['C', 'C++', 'Python']
+    MostUsed = ['Typescript", 'C', 'Python']
     Interested = ['Software Development']
 ```
 
